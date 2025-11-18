@@ -115,11 +115,11 @@ Web_Hybrid_Mobiiliohjelmointi_MaterialDesignNavigointi/
 - ✅ **Stack Navigation** -navigoinnin perusteet React Nativessa
 - ✅ **Material Design** -kirjaston (React Native Paper) käyttö
 - ✅ **Custom AppBar** -komponentin toteuttaminen
-- ✅ **Ehdollinen renderöinti** - ikonit näkyvät riippuen siitä, millä ruudulla ollaan
+- ✅ **Ehdollinen näyttäminen** - ikonit vaihtuvat sen mukaan, millä sivulla ollaan
 - ✅ **TypeScript** -tyyppien käyttö navigaatiossa (`RootStackParamList`)
 - ✅ **NavigationContainer** ja **Stack.Navigator** -konfigurointi
 - ✅ **React Native Paper** -komponenttien tyylittely
-- ✅ **Komponenttien modularisointi** - screens ja components -hakemistoihin
+- ✅ **Koodin jakaminen osiin** - screens ja components -kansioihin
 
 ---
 
